@@ -12,5 +12,8 @@ Feel free to suggest any tiles in the issues tab and I might get round to making
 
 # Updates:
 
+## v0.1.1
++ Minor init fixes
+
 ## v0.1.0
 + Added Box Light tiles
