@@ -2,6 +2,8 @@
 
 A repository for any of my custom tiles, (and maybe props, effects, or materials) for the game Rain World
 
+Feel free to suggest any tiles in the issues tab and I might get round to making them.
+
 ## Tiles:
 
 ### Box Lights
