@@ -1,0 +1,8 @@
+-["Box Lights", color(255, 160, 255)]
+[#nm:"Box light 1 A", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["effectColorA", "notTrashProp"]]
+[#nm:"Box light 2 A", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["effectColorA", "notTrashProp"]]
+[#nm:"Box light 3 A", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["effectColorA", "notTrashProp"]]
+
+[#nm:"Box light 1 B", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["effectColorB", "notTrashProp"]]
+[#nm:"Box light 2 B", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["effectColorB", "notTrashProp"]]
+[#nm:"Box light 3 B", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["effectColorB", "notTrashProp"]]
