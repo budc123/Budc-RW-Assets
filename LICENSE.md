@@ -12,4 +12,5 @@ For other uses, credit would be highly appreciated, but is not required.
 # Credits:
 
 Assets created with aseprite.
+
 Exported using https://github.com/mayhemmmwith3ms/Aseprite-RW-Tile-Exporter/
