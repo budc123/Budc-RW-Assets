@@ -10,7 +10,15 @@ Feel free to suggest any tiles in the issues tab and I might get round to making
 
 <img width="881" height="251" alt="image" src="https://github.com/user-attachments/assets/43d3b8e1-6fdc-4c26-b2d9-89f226efb182" />
 
+### Server Racks
+
+
+
 # Updates:
+
+## v0.2.0
++ Removed aseprite files (using different method for tile making)
++ Added Server Racks
 
 ## v0.1.2
 + Added 7 more Box Lights
