@@ -12,6 +12,7 @@ Feel free to suggest any tiles in the issues tab and I might get round to making
 
 ### Server Racks
 
+<img width="1046" height="250" alt="image" src="https://github.com/user-attachments/assets/8240cdcc-e0b9-400a-82f1-6534d0571b70" />
 
 
 # Updates:
