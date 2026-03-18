@@ -1,5 +1,8 @@
 # Budc RW Assets
 
+> [!notice]
+> This repository is significantly out of date, as updating and managing it has been quite time consuming, all my current and future tiles are apart of [Solar's Repo](https://rainworld-repository.github.io/Repo-Site), please download them from there instead
+
 A repository for any of my custom tiles, (and maybe props, effects, or materials) for the game Rain World
 
 Feel free to suggest any tiles in the issues tab and I might get round to making them.
